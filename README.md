@@ -136,6 +136,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
+- [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
+  🔑 - Create, check, pay for and manage hosted AI agent pods: Hermes, OpenClaw, n8n, Claude Code, OpenCode, Pi.
 - [Cloudflare Bindings](https://developers.cloudflare.com/agents/model-context-protocol/) `https://bindings.mcp.cloudflare.com/mcp`
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
 - [Floot](https://floot.com) `https://mcp.floot.com/mcp`
