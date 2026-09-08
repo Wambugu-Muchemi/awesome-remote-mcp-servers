@@ -89,6 +89,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🍽️ - [Food & Dining](#food--dining)
 * 🎮 - [Gaming](#gaming)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
+* ⚖️ - [Legal](#legal)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia](#multimedia)
@@ -384,6 +385,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vilix AI](https://vilix.ai) `https://api.vilix.ai/mcp`
   [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
   🔐 - Persistent shared AI memory across tools and devices, with full history and unlimited memory on paid plans.
+
+### ⚖️ <a name="legal"></a>Legal
+
+- [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
+  [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
+  🔐 - French and European case law and legislation, searched in plain language and linked article by article.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
