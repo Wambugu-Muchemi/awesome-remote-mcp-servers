@@ -554,6 +554,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights from Alice, one of Israel's best-known travel apps, including Tel Aviv routes, with English and Hebrew results tagged best, cheapest, and fastest.
 
+- [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
+  [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
+  🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC — no account, no signup, no KYC.
+
 ### 🔄 <a name="version-control"></a>Version Control
 
 - [GitHub](https://github.com) `https://api.githubcopilot.com/mcp/`
