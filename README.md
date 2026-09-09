@@ -191,7 +191,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Query and mutate Sanity datasets and documents.
 - [sitectrl](https://sitectrl.ai/mcp) `https://mcp.sitectrl.ai/mcp`
   [![sitectrl MCP connector](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl)
-  🔓 - Build, edit, and publish a hosted website with SSL, contact forms, and analytics; sign in with OAuth.
+  🔓 - Describe a site and get it live with SSL, forms, and analytics — no account needed; OAuth to edit and manage.
 - [Storyblok](https://storyblok.com) `https://mcp.storyblok.com/mcp`
   🔓 - Manage Storyblok spaces, stories, and components.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
