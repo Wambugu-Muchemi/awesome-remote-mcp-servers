@@ -382,7 +382,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
 - [UseMyContext](https://usemycontext.ai) `https://mcp.usemycontext.ai/mcp`
-  🔐 - One profile and files you own, read by any MCP client, so you never re-introduce yourself to an AI again.
+  [![UseMyContext MCP connector](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext)
+  🔓 - Your own profile and files, read by any MCP client. OAuth unlocks your context; anonymous gets metadata only.
 - [Vilix AI](https://vilix.ai) `https://api.vilix.ai/mcp`
   [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
   🔐 - Persistent shared AI memory across tools and devices, with full history and unlimited memory on paid plans.
