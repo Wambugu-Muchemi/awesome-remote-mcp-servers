@@ -131,6 +131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop for AI agents: confirmations, forms, and durable approvals that reach any device, with an audit trail.
+- [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
+  [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
+  🔐 - Publish needs and offers through your AI and get private matches, with contact details revealed only on a match.
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
