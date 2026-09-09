@@ -470,7 +470,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [AI Applyd](https://aiapplyd.com/mcps) `https://mcp.aiapplyd.com/mcp`
   [![AI Applyd MCP connector](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd)
-  🔐 - Score a resume the way the screening software scores it, rewrite it for a role, write the cover letter, prepare for the interview, and submit the application on the employer's own hiring system across 12 ATS platforms.
+  🔓 - ATS resume scoring, per-role resume rewriting, cover letters, interview prep, job matching, and auto-apply that submits on the employer's own hiring system across 12 ATS platforms. Sign in with Google to run a tool.
 - [Fireflies](https://fireflies.ai) `https://api.fireflies.ai/mcp`
   [![Fireflies MCP connector](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly)
   🔐 - Search meeting transcripts, summaries, and action items.
