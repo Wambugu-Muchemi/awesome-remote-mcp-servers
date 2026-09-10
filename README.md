@@ -558,6 +558,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Guava Wallet Intelligence](https://www.guavaintel.com) `https://api.guavaintel.com/mcp`
+  🔑 - Crypto token security and wallet risk intelligence for AI agents. Check honeypot status, risk scores, buy/sell tax, contract audit, and owner privileges across 31 chains. Analyze wallet risk profiles, transaction history, and scam flags. OAuth 2.1 + API key auth.
 - [Promptguard](https://mcp.glc-rag.hu/guide/promptguard) `https://mcp.glc-rag.hu/mcp`
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
